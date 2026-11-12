@@ -1,2 +1,3 @@
-\# Git Fundamentals Assignement 1
+# Git Fundamentals Assignement
 
+Repository for understanding git
